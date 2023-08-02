@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_docs_squads_creating-your-squad",
+        "step 2: At Page_docs_squads_creating-your-squad click on hyperlink_daily_dev_privacy",
+        "step 3: At Page_docs_squads_creating-your-squad click on hyperlink_www_meetup_com_the_monthly_dev_world_cla",
+        "step 4: At Page_docs_squads_creating-your-squad click on hyperlink_faqs --> navigate to Page_faqs",
+        "step 5: Add visual checkpoint at Page_faqs"
+    ]
+}

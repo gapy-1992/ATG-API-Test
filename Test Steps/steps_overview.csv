@@ -1,0 +1,35 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_home
+step 2: At Page_home click on hyperlink_docs_intro --> navigate to Page_docs_intro
+step 3: Add visual checkpoint at Page_docs_intro",High
+2,"step 1: Navigate to Page_docs_getting-started_browser-extension-installation
+step 2: At Page_docs_getting-started_browser-extension-installation click on hyperlink_video_tutorials --> navigate to Page_video-tutorials
+step 3: Add visual checkpoint at Page_video-tutorials",High
+5,"step 1: Navigate to Page_docs_your-profile_activity
+step 2: Add visual checkpoint at Page_docs_your-profile_activity",Medium
+6,"step 1: Navigate to Page_docs_your-profile_reading-history
+step 2: Add visual checkpoint at Page_docs_your-profile_reading-history",Low
+4,"step 1: Navigate to Page_docs_squads_creating-your-squad
+step 2: At Page_docs_squads_creating-your-squad click on hyperlink_daily_dev_privacy
+step 3: At Page_docs_squads_creating-your-squad click on hyperlink_www_meetup_com_the_monthly_dev_world_cla
+step 4: At Page_docs_squads_creating-your-squad click on hyperlink_faqs --> navigate to Page_faqs
+step 5: Add visual checkpoint at Page_faqs",Low
+7,"step 1: Navigate to Page_docs_your-profile_account-details
+step 2: Add visual checkpoint at Page_docs_your-profile_account-details",Low
+8,"step 1: Navigate to Page_docs_squads_growing-your-squad
+step 2: Add visual checkpoint at Page_docs_squads_growing-your-squad",Low
+3,"step 1: Navigate to Page_docs_setting-up-your-feed_blocking-tags-sources
+step 2: At Page_docs_setting-up-your-feed_blocking-tags-sources click on span_object
+step 3: Add visual checkpoint at Page_docs_setting-up-your-feed_blocking-tags-sources",Low
+9,"step 1: Navigate to Page_docs_setting-up-your-feed_advanced-filtering-options
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_advanced-filtering-options",Trivial
+10,"step 1: Navigate to Page_docs_customize-your-feed_layout
+step 2: Add visual checkpoint at Page_docs_customize-your-feed_layout",Trivial
+12,"step 1: Navigate to Page_docs_setting-up-your-feed_filtering-content-feed
+step 2: Add visual checkpoint at Page_docs_setting-up-your-feed_filtering-content-feed",Trivial
+14,"step 1: Navigate to Page_docs_your-profile_weekly-goal
+step 2: Add visual checkpoint at Page_docs_your-profile_weekly-goal",Trivial
+13,"step 1: Navigate to Page_docs_squads_managing-your-squad
+step 2: Add visual checkpoint at Page_docs_squads_managing-your-squad",Trivial
+11,"step 1: Navigate to Page_docs_your-profile_deleting-your-profile
+step 2: Add visual checkpoint at Page_docs_your-profile_deleting-your-profile",Trivial
